@@ -1,0 +1,55 @@
+/*index*/
+
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@200;400&display=swap');
+*{
+	font-family: 'League Spartan', sans-serif;
+	margin: 0;
+	padding: 0;
+}
+html{
+	font-size: 62,5%;
+
+}
+
+/*texto*/
+
+.text-fucsha{
+	color: #f20587;
+}
+.text-violet{
+	color: #d948b2;
+}
+.text-pink{
+	color: #f4e1f9;
+}
+.text-dark-grey{
+	color: #0d0d0d
+}
+.text-green{
+	color: #0cf2b1;
+}
+.text-light-grey{
+	color: #f0f0f2;
+}
+.text-orange{
+	color: #f27a05;
+}
+
+/*background*/
+
+.bg-grey-dark{
+	color: #0d0d0d;
+}
+.bg-pink{
+	color: #f4e1f9;
+}
+.bg-light-grey{
+	color: #f0f0f2;
+}
+
+/*tamaño de imágenes*/
+
+.img-sm{
+	width: 5%;
+	height: auto;
+}
