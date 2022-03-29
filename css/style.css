@@ -10,6 +10,9 @@ html{
 	font-size: 62,5%;
 
 }
+#footer{
+	;
+}
 
 /*texto*/
 
@@ -22,7 +25,7 @@ html{
 .text-pink{
 	color: #f4e1f9;
 }
-.text-dark-grey{
+.text-dark{
 	color: #0d0d0d
 }
 .text-green{
@@ -37,7 +40,7 @@ html{
 
 /*background*/
 
-.bg-grey-dark{
+.bg-deepgrey{
 	color: #0d0d0d;
 }
 .bg-pink{
@@ -50,6 +53,29 @@ html{
 /*tamaño de imágenes*/
 
 .img-sm{
-	width: 5%;
+	width: 20px;
 	height: auto;
+}
+.img-md{
+	margin: 2em 0em 2em 0em;
+}
+
+/*tamaño de textos*/
+
+.block-text{
+	margin: 5em 0em 3em 0em;
+}
+
+.sub-text{
+	text-align: justify;
+}
+
+/*alineaciones*/
+
+.buttons{
+	margin: 2em 2em 2em 0em;
+}
+
+.formulario{
+	margin: 2em 2em 0em 2em;
 }
