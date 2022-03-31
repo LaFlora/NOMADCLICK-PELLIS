@@ -58,16 +58,18 @@ html{
 }
 .img-md{
 	margin: 2em 0em 2em 0em;
+
 }
 
 /*tamaño de textos*/
 
 .block-text{
-	margin: 5em 0em 3em 0em;
+	margin: 2em 0em 3em 0em;
 }
 
 .sub-text{
 	text-align: justify;
+	margin: 1em 2em 1em 2em;
 }
 
 /*alineaciones*/
@@ -82,4 +84,8 @@ html{
 
 .titles{
 	margin: 2em 0em 0em 0em;
+}
+
+.subtitles{
+	margin-top: 1em;
 }
