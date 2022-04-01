@@ -38,6 +38,11 @@ html{
 	color: #f27a05;
 }
 
+.navbar-light .navbar-nav .nav-link {
+
+color: #f20587;
+
+}
 /*background*/
 
 .bg-deepgrey{
@@ -78,9 +83,7 @@ html{
 	margin: 2em 2em 2em 0em;
 }
 
-.formulario{
-	margin: 2em 2em 0em 2em;
-}
+
 
 .titles{
 	margin: 2em 0em 0em 0em;
